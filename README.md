@@ -17,7 +17,7 @@ Jupyter notebook is used for performaing Exploratory Data Analysis, Statistical 
   
   <h2>Exploratory Data Analysis: </h2>
 
-<p>Before performing Statistical Analysis and Arima time series, it is a good practise toundersatnd the data and try to gather as many insights from it. Some of the Exploratory Data Analysis plot are **Histogram** ( Graphically method to summarise the distribution of a univariate dataset), **Barplot**( A chart or graph that presents categorical data with rectangular bars with heights or lengths proportional to the values that they represent) and **LinePlot** to plot the time series plot of the sales Data with datetime as x-axis</p>
+<p>Before performing Statistical Analysis and Arima time series, it is a good practise toundersatnd the data and try to gather as many insights from it. Some of the Exploratory Data Analysis plot are <strong>Histogram</strong> ( Graphically method to summarise the distribution of a univariate dataset), <strong>Barplot</strong>( A chart or graph that presents categorical data with rectangular bars with heights or lengths proportional to the values that they represent) and <strong>LinePlot</strong> to plot the time series plot of the sales Data with datetime as x-axis</p>
 
 
 ![barplot](https://user-images.githubusercontent.com/57468338/120264747-6f083f00-c26c-11eb-9e50-49d2fbd137e5.png)
