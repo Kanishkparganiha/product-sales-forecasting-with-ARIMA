@@ -43,4 +43,4 @@ y(t)->Level + Trend + Seasonality + Noise
 <h3>Multiplicative Model : </h3> <p> An multiplicative suggests that the components are multiplied together</p>
 y(t)->Level x Trend x Seasonality x Noise
 </p>
-![decompose](https://user-images.githubusercontent.com/57468338/120268606-205ea300-c274-11eb-8251-4b6fdf019512.png)
+![image](https://user-images.githubusercontent.com/57468338/120268693-4b48f700-c274-11eb-86e2-4fdc6c217e33.png)
