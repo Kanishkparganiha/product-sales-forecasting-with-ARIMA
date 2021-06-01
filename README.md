@@ -23,3 +23,18 @@ Jupyter notebook is used for performaing Exploratory Data Analysis, Statistical 
 ![barplot](https://user-images.githubusercontent.com/57468338/120264747-6f083f00-c26c-11eb-9e50-49d2fbd137e5.png)
 ![histo1](https://user-images.githubusercontent.com/57468338/120264770-7a5b6a80-c26c-11eb-9e0d-e0393cbc6960.png)
 ![timeseries](https://user-images.githubusercontent.com/57468338/120264773-7cbdc480-c26c-11eb-80e5-27b5626d6bc2.png)
+
+
+<h2>Decompose Time Series into Trend and Seasonality</h2>
+
+<p>
+A Time Series consists of three systematic components which are as follows:
+  <ul>
+    <li><strong>Level</strong>The Average value in the series</p>
+      <li><strong>Trend</strong>The increasing or decreasing value in the value</p>
+        <li><strong>Seasonality</strong>The repeating short-term cycle in the series</p>
+          <li><strong>Noise</strong>The random variation in the series</p>
+    </ul>
+
+
+</p>
