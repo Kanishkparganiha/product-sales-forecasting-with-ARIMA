@@ -45,3 +45,8 @@ y(t)->Level x Trend x Seasonality x Noise
 </p>
 
 ![decompose](https://user-images.githubusercontent.com/57468338/120268763-6e73a680-c274-11eb-9e68-3aa971303fb7.png)
+
+<h2>Autocorrelation Function</h2>
+<p> Autocorrelation and partial correlation plots are heavily used in time series analysis and forecasting. A plot of the autocorrelation of the time series by lag is called the Autocorrelation Function
+
+
