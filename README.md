@@ -38,8 +38,9 @@ A Time Series consists of three systematic components which are as follows:
 
 The components of the time series can be <strong>Additive</strong> and <strong>Multiplicative</strong>
 <h3>Additive Model : </h3> <p> An additive model is a linear where changes over time are consistently made by same amount.</p>
-<br>
+
 y(t)->Level + Trend + Seasonality + Noise
 <h3>Multiplicative Model : </h3> <p> An multiplicative suggests that the components are multiplied together</p>
 y(t)->Level x Trend x Seasonality x Noise
 </p>
+![decompose](https://user-images.githubusercontent.com/57468338/120268606-205ea300-c274-11eb-8251-4b6fdf019512.png)
