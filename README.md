@@ -19,7 +19,6 @@ Jupyter notebook is used for performaing Exploratory Data Analysis, Statistical 
 
 <p>Before performing Statistical Analysis and Arima time series, it is a good practise toundersatnd the data and try to gather as many insights from it. Some of the Exploratory Data Analysis plot are <strong>Histogram</strong> ( Graphically method to summarise the distribution of a univariate dataset), <strong>Barplot</strong>( A chart or graph that presents categorical data with rectangular bars with heights or lengths proportional to the values that they represent) and <strong>LinePlot</strong> to plot the time series plot of the sales Data with datetime as x-axis</p>
 
-
 ![barplot](https://user-images.githubusercontent.com/57468338/120264747-6f083f00-c26c-11eb-9e50-49d2fbd137e5.png)
 ![histo1](https://user-images.githubusercontent.com/57468338/120264770-7a5b6a80-c26c-11eb-9e0d-e0393cbc6960.png)
 ![timeseries](https://user-images.githubusercontent.com/57468338/120264773-7cbdc480-c26c-11eb-80e5-27b5626d6bc2.png)
@@ -47,6 +46,7 @@ y(t)->Level x Trend x Seasonality x Noise
 ![decompose](https://user-images.githubusercontent.com/57468338/120268763-6e73a680-c274-11eb-9e68-3aa971303fb7.png)
 
 <h2>Autocorrelation Function</h2>
-<p> Autocorrelation and partial correlation plots are heavily used in time series analysis and forecasting. A plot of the autocorrelation of the time series by lag is called the Autocorrelation Function
+<p> Autocorrelation and partial correlation plots are heavily used in time series analysis and forecasting. A plot of the autocorrelation of the time series by lag is called the Autocorrelation Function. ACF is an auto-correlation function which gives us the values of the auto-correlation of any series with its lagged values
 
+![image](https://user-images.githubusercontent.com/57468338/120377090-a9b0bc80-c2ea-11eb-8f9f-1fd7b7ef9aeb.png)
 
