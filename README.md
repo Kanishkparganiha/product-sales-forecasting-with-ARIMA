@@ -30,11 +30,16 @@ Jupyter notebook is used for performaing Exploratory Data Analysis, Statistical 
 <p>
 A Time Series consists of three systematic components which are as follows:
   <ul>
-    <li><strong>Level</strong>The Average value in the series</p>
-      <li><strong>Trend</strong>The increasing or decreasing value in the value</p>
-        <li><strong>Seasonality</strong>The repeating short-term cycle in the series</p>
-          <li><strong>Noise</strong>The random variation in the series</p>
+    <li><strong>Level: </strong>The Average value in the series</p>
+      <li><strong>Trend: </strong>The increasing or decreasing value in the value</p>
+        <li><strong>Seasonality: </strong>The repeating short-term cycle in the series</p>
+          <li><strong>Noise: </strong>The random variation in the series</p>
     </ul>
 
-
+The components of the time series can be <strong>Additive</strong> and <strong>Multiplicative</strong>
+<h3>Additive Model : </h3> <p> An additive model is a linear where changes over time are consistently made by same amount.</p>
+<br>
+y(t)->Level + Trend + Seasonality + Noise
+<h3>Multiplicative Model : </h3> <p> An multiplicative suggests that the components are multiplied together</p>
+y(t)->Level x Trend x Seasonality x Noise
 </p>
